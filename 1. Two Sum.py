@@ -1,4 +1,4 @@
-nums = [3,2,3]
+nums = [3,2,4]
 target = 6
 
 for idx,i in enumerate(nums):
