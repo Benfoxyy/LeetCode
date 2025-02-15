@@ -10,7 +10,6 @@ class Solution:
         for j in s:
             if j == '*':
                 s = s.replace(j,t.pop(),1)
-    
         return s
             
                 
